@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+#hero {
+    padding: 50px 0 50px 0;
+}
+
+.hero-title {
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+
+.hero-subtitle {
+    font-size: 1.2rem;
+}
+
+#feature {
+    padding: 100px 0 100px 0;
+    text-align: center;
+}
+
+.feature-title {
+    color: #ffffff;
+}
+
+.card {
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card-logo {
+    font-size: 3rem;
+}
+
+#excellence {
+    padding: 60px 0 60px 0;
+}
+
+.excellence-title {
+    font-size: 3rem;
+}
+
+.excellence-item p {
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+}
+
+.bxs-check-circle {
+    font-size: 3rem;
+    color: #007bff;
+    margin-right: 5px;
+}
+
+.excellence-img {
+    width: 650;
+}
+
+#kenawhy {
+    background-color: #eeeeee;
+    padding: 100px 0 100px 0;
+}
+
+.card-custom {
+    text-align: left;
+}
+
+#footer {
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 80px 0 20px 0;
+}
+
+.copyright-text {
+    border-top: 2px solid #ffffff;
+    margin-top: 3rem;
+    padding-top: 30px;
+}
+
+.copyright-text a {
+    text-decoration: none;
+    color: #ffffff;
+}
